@@ -1,15 +1,15 @@
-# 🔗 Doubly Linked List - String Operations
+#  Doubly Linked List - String Operations
 
 A comprehensive C++ implementation of a doubly linked list designed for character/string manipulation operations.
 
-## ✨ Features
+##  Features
 
 - ✅ **Complete doubly linked list implementation** with forward and backward traversal
 - ✅ **String-specific operations** - create lists from strings, search, replace, extract substrings
 - ✅ **Memory-safe operations** with comprehensive bounds checking
 - ✅ **Interactive testing** with user input functionality
 
-## ⚡ Operations Supported
+##  Operations Supported
 
 | Operation | Description | Time Complexity |
 |-----------|-------------|-----------------|
@@ -32,7 +32,7 @@ myList.replace("World", "C++");      // "Hello, C++"
 cout << myList.extract(0, 5);       // "Hello"
 ```
 
-## 🚀 Sample Run
+##  Sample Run
 
 ```
 Enter string to add to list 1: Hello
@@ -48,7 +48,7 @@ Enter 2 substrings to replace one with another: Word C++
 List after replacement: HelloC++
 ```
 
-## 📁 Code Structure
+##  Code Structure
 
 - **`Node` class**: Basic doubly linked node with char data
 - **`LinkedList` class**: Complete list implementation with string operations
