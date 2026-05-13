@@ -4,10 +4,10 @@ A comprehensive C++ implementation of a doubly linked list designed for characte
 
 ##  Features
 
-- ✅ **Complete doubly linked list implementation** with forward and backward traversal
-- ✅ **String-specific operations** - create lists from strings, search, replace, extract substrings
-- ✅ **Memory-safe operations** with comprehensive bounds checking
-- ✅ **Interactive testing** with user input functionality
+-  **Complete doubly linked list implementation** with forward and backward traversal
+-  **String-specific operations** - create lists from strings, search, replace, extract substrings
+-  **Memory-safe operations** with comprehensive bounds checking
+-  **Interactive testing** with user input functionality
 
 ##  Operations Supported
 
